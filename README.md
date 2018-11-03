@@ -6,7 +6,7 @@ The file that is checked for the unparsed business card data should be in a .txt
 
 1. navigate to an empty folder
 2. run *git init*
-3. run *git pull https://github.com/Malekagr/Assymetrik-Business-Card/ *
+3. run *git pull https://github.com/Malekagr/Assymetrik-Business-Card/*
 4. run *javac BusinessCardParser.java*
 5. run *java BusinessCardParser input.txt*
 
