@@ -4,6 +4,7 @@ How to run:
 
 The file that is checked for the unparsed business card data should be in a .txt file. I have provided a sample file, input.txt, that can be used to run the program. This file must be passed as the first command line argument when running the program, as shown in the following instructions.
 
+on your command line:
 1. navigate to an empty folder
 2. run *git init*
 3. run *git pull https://github.com/Malekagr/Assymetrik-Business-Card/*
