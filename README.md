@@ -17,4 +17,4 @@ Explanation of files:
 1. BusinessCardParser.java is the main file
 2. ContactInfo.java is where most of the work is done
 3. emailDictionary.txt, nameDictionary.txt, phoneDictionary.txt are files that are used to check for specific characters/words.
-4. input.txt is an example file thatcontains the unparsed business card data. 
+4. input.txt is an example file that contains the unparsed business card data. 
